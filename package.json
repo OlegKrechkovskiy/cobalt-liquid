@@ -1,0 +1,42 @@
+{
+  "name": "cobalt-liquid",
+  "displayName": "Cobalt-liquid",
+  "description": "",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "themes",
+    "dark themes",
+    "Theme",
+    "cobalt-liquid",
+    "Cobalt-liquid",
+    "liquid"
+  ],
+  "author": "Oleg Krechkovskiy",
+  "publisher": "myxlxal",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://github.com/OlegKrechkovskiy/cobalt-liquid.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OlegKrechkovskiy/cobalt-liquid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OlegKrechkovskiy/cobalt-liquid/issues",
+    "email": "olegkrechk@gmail.com"
+  },
+  "icon": "images/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cobalt-liquid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cobalt-liquid-color-theme.json"
+      }
+    ]
+  }
+}
