@@ -14,7 +14,7 @@ Also adapted colors for `.html .js .scss`
 3. Use the cursor keys to preview the colors of the theme.  
 Select the cobalt-liquid theme and press Enter.
 
-## For proper operation, it is recommended to install
+## To work correctly with the syntax of the Liquid and Shopify languages, it is recommended to install
 
 - [Liquid Languages Support][liquid-languages-support-ext-url]
 - [Shopify Liquid Template Snippets][shopify-liquid-template-snippets-ext-url]
